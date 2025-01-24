@@ -50,13 +50,17 @@ Welcome to the **Retail EDA & Profit Optimization Project**, where data-driven i
 
 ## 🛠️ **Technologies Used**
 | Tool/Library   | Purpose                           |
-|----------------|-----------------------------------|
-| 🐍 Python      | Data cleaning and analysis        |
-| 📊 Matplotlib  | Static visualizations             |
-| 🎨 Seaborn     | Advanced plotting and styling     |
+|----------------|-------------------------------------------|
+| 🐍 Python      | Data cleaning and analysis               |
+| 📊 Matplotlib  | Static visualizations                    |
+| 🎨 Seaborn     | Advanced plotting and styling            |
+| 📊 Power BI    | Interactive dashboards and reporting     |
 
 ---
 
+![Image](https://github.com/user-attachments/assets/75b44e5e-a8b1-412b-adfc-fe5c3a9c92ea)
+
+---
 ## **🤝 Contributing**
 
 Contributions are welcome! Please open an issue or submit a pull request if you have ideas for improving this project.
